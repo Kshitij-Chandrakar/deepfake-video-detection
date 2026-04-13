@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+venv/
+env/
+
+# models
+*.h5
+*.pt
+*.pth
+
+# data
+*.mp4
+*.avi
+dataset/
+frames/
+
+# system
+.DS_Store
+.ipynb_checkpoints
+.vscode/
