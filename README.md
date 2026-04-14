@@ -13,6 +13,7 @@ A deep learning-based system that detects whether a video is **REAL or FAKE (dee
 
 ## 🧠 Architecture Overview
 
+
 ![Architecture](architecture.png)
 
 ---
@@ -144,7 +145,7 @@ streamlit run Streamlit/app.py
 
 ---
 
-## 📁 Dataset & Model
+## 📁 Dataset and Model
 
 Details available in:
 
